@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+https://ancient-ravine-82356.herokuapp.com/
+
+
+https://www.theodinproject.com/courses/web-development-101/lessons/your-first-rails-application?ref=lnav
